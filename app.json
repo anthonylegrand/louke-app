@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "louke-app",
-    "slug": "louke-app",
+    "name": "louke",
+    "slug": "louke",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -18,7 +18,7 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": false
     },
     "android": {
       "adaptiveIcon": {
